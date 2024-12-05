@@ -35,14 +35,7 @@ Choosing the right payment gateway is critical for ensuring smooth and secure tr
 ## ✨ Contributions  
 Feel free to add more gateways by submitting a pull request or opening an issue! 
 
----
 
-## 🛠️ How to Use  
-1. Browse the list above.  
-2. Click on the links to explore each payment gateway.  
-3. Check their features and choose the best option for your business needs.  
-
----
 
 ## 📄 License  
 This project is licensed under the MIT License.  
@@ -50,7 +43,7 @@ This project is licensed under the MIT License.
 ---
 
 ## Keywords  
-`Payment Gateway` `Online Payments` `Gulf Region` `Arab World` `E-commerce Payments` `Middle East Payment Solutions`  
+`Payment Gateway` `Payment Gateways in Saudi Arabia` `Online Payments` `Gulf Region` `Arab World` `E-commerce Payments` `Middle East Payment Solutions`  
 
 ---
 
