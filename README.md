@@ -12,6 +12,7 @@ Choosing the right payment gateway is critical for ensuring smooth and secure tr
 |---------------------|------------------------------------------------|-----------------------------------------------------------------------------|
 | **MyFatoorah**      | [myfatoorah.com](https://www.myfatoorah.com/)  | Offers seamless payment solutions with extensive support for Gulf countries. |
 | **Tap Payments**    | [tap.company](https://www.tap.company/ar-sa/products/payment-methods) | Supports multiple payment methods, including cards, wallets, and installments. |
+| **Paymob Payments**    | [paymob.sa](https://paymob.sa/) |Paymob runs millions of transactions for different business sizes across the Middle East and Africa. |
 | **EDFA Pay**        | [edfapay.com](https://edfapay.com/home-ar/#form) | A flexible and secure gateway for businesses in Saudi Arabia.               |
 | **PayTabs**         | [paytabs.com](https://site.paytabs.com/en/payment-methods/) | Popular in the Middle East with a focus on secure and scalable solutions.   |
 | **SiteSway**        | [sitesway.sa](https://sitesway.sa/)            | Provides tailored payment solutions for small and medium enterprises.       |
